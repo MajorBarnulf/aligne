@@ -5,6 +5,7 @@ edition = "2021"
 license = "MIT"
 authors = ["JOLIMAITRE Matthieu <matthieu@imagevo.fr>"]
 description = "A small crate using tokio to synchronize asynchronous request/response with Ids."
+repository = "https://github.com/MajorBarnulf/aligne/"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
