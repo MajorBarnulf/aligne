@@ -1,0 +1,12 @@
+[package]
+name = "aligne"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+authors = ["JOLIMAITRE Matthieu <matthieu@imagevo.fr>"]
+description = "A small crate using tokio to synchronize asynchronous request/response with Ids."
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+tokio = { version = "1.18.2", features = ["full"]}
